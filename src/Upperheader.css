@@ -1,0 +1,14 @@
+.upperheader {
+    display: flex;
+    justify-content: space-between;
+    background-color: #007bff;
+    padding: 10px 20px;
+}
+
+.social-media a {
+    margin-right: 15px;
+}
+
+.language-switcher .ant-select {
+    width: 100px;
+}
